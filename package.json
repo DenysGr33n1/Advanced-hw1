@@ -1,0 +1,29 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Marchenko-Denys-FE-6",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenysGr33n1/Advanced-hw1.git"
+  },
+  "author": "Denys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenysGr33n1/Advanced-hw1/issues"
+  },
+  "homepage": "https://github.com/DenysGr33n1/Advanced-hw1#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "eslint": "^8.25.0",
+    "gulp": "^4.0.2"
+  }
+}
